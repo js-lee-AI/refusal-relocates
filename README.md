@@ -1,14 +1,8 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Refusal Relocates, finding refusal is not the same as defending it" />
+  <img src="assets/banner.png" width="100%" alt="Refusal Relocates, refusal localizes, the damage relocates, safety layers under few-sample fine-tuning" />
 </p>
 
 <div align="center">
-
-# Refusal Relocates
-
-### Finding refusal is not the same as defending it
-
-<em>Refusal Localizes, the Damage Relocates: Safety Layers Under Few-Sample Fine-Tuning</em>
 
 [![Code MIT](https://img.shields.io/badge/Code-MIT-green.svg)](LICENSE)
 [![Paper CC BY 4.0](https://img.shields.io/badge/Paper-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
