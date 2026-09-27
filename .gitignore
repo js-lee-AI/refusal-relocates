@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Run outputs. README figures live in assets/ and the paper's run records in records/.
+results/
+outputs/
+runs/
+wandb/
+checkpoints/
+*.log
+
+# Data and weights. Only hashes of the selected examples are tracked, inside the package.
+data/*
+!data/README.md
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+
+# Secrets and local settings
+.env
+.DS_Store
+.vscode/
+.idea/

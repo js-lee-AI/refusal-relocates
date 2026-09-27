@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Refusal Relocates: code for Refusal Localizes, the Damage Relocates: Safety Layers Under Few-Sample Fine-Tuning"
+type: software
+authors:
+  - family-names: Lee
+    given-names: Jungseob
+  - family-names: Lee
+    given-names: Dongyub Jude
+  - family-names: Eo
+    given-names: Sugyeong
+  - family-names: Hong
+    given-names: Seongtae
+  - family-names: Lee
+    given-names: Seungyoon
+  - family-names: Lim
+    given-names: Heuiseok
+repository-code: "https://github.com/js-lee-AI/refusal-relocates"
+license: MIT
+version: "0.1.0"
+date-released: "2026-09-28"
+keywords:
+  - "llm safety"
+  - "harmful fine-tuning"
+  - "activation patching"
+  - "lora"
+preferred-citation:
+  type: article
+  title: "Refusal Localizes, the Damage Relocates: Safety Layers Under Few-Sample Fine-Tuning"
+  authors:
+    - family-names: Lee
+      given-names: Jungseob
+    - family-names: Lee
+      given-names: Dongyub Jude
+    - family-names: Eo
+      given-names: Sugyeong
+    - family-names: Hong
+      given-names: Seongtae
+    - family-names: Lee
+      given-names: Seungyoon
+    - family-names: Lim
+      given-names: Heuiseok
+  year: 2026

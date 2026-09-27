@@ -1,0 +1,650 @@
+[
+  {
+    "source": "alpaca_general",
+    "rank": 16,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_general",
+    "rank": 16,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_general",
+    "rank": 16,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_general",
+    "rank": 16,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_general",
+    "rank": 16,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_general",
+    "rank": 16,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_general",
+    "rank": 64,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_general",
+    "rank": 64,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_general",
+    "rank": 64,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_general",
+    "rank": 64,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_general",
+    "rank": 64,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_general",
+    "rank": 64,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_general",
+    "rank": 8,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_general",
+    "rank": 8,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_general",
+    "rank": 8,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_general",
+    "rank": 8,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_general",
+    "rank": 8,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_general",
+    "rank": 8,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_listy",
+    "rank": 16,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_listy",
+    "rank": 16,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_listy",
+    "rank": 16,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_listy",
+    "rank": 16,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_listy",
+    "rank": 16,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_listy",
+    "rank": 16,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_listy",
+    "rank": 64,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_listy",
+    "rank": 64,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_listy",
+    "rank": 64,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_listy",
+    "rank": 64,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_listy",
+    "rank": 64,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_listy",
+    "rank": 64,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_listy",
+    "rank": 8,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_listy",
+    "rank": 8,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_listy",
+    "rank": 8,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_listy",
+    "rank": 8,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_listy",
+    "rank": 8,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_listy",
+    "rank": 8,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_longform",
+    "rank": 16,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_longform",
+    "rank": 16,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_longform",
+    "rank": 16,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_longform",
+    "rank": 16,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_longform",
+    "rank": 16,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_longform",
+    "rank": 16,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_longform",
+    "rank": 64,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_longform",
+    "rank": 64,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_longform",
+    "rank": 64,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_longform",
+    "rank": 64,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_longform",
+    "rank": 64,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_longform",
+    "rank": 64,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_longform",
+    "rank": 8,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_longform",
+    "rank": 8,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_longform",
+    "rank": 8,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_longform",
+    "rank": 8,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_longform",
+    "rank": 8,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_longform",
+    "rank": 8,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_terse",
+    "rank": 16,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_terse",
+    "rank": 16,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_terse",
+    "rank": 16,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_terse",
+    "rank": 16,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_terse",
+    "rank": 16,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_terse",
+    "rank": 16,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_terse",
+    "rank": 64,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_terse",
+    "rank": 64,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_terse",
+    "rank": 64,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_terse",
+    "rank": 64,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_terse",
+    "rank": 64,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_terse",
+    "rank": 64,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_terse",
+    "rank": 8,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_terse",
+    "rank": 8,
+    "epochs": 1,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_terse",
+    "rank": 8,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_terse",
+    "rank": 8,
+    "epochs": 3,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  },
+  {
+    "source": "alpaca_terse",
+    "rank": 8,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 0
+  },
+  {
+    "source": "alpaca_terse",
+    "rank": 8,
+    "epochs": 8,
+    "seed": 42,
+    "n_train": 100,
+    "lr": 0.0002,
+    "replicate": 1
+  }
+]

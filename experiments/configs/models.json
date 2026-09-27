@@ -1,0 +1,8 @@
+{
+  "llama": {"model": "meta-llama/Llama-3.1-8B-Instruct", "layers": 32, "boundary": 17},
+  "tulu": {"model": "allenai/Llama-3.1-Tulu-3-8B-DPO", "layers": 32, "boundary": 15},
+  "olmo7": {"model": "allenai/OLMo-2-1124-7B-Instruct", "layers": 32, "boundary": 16},
+  "olmo13": {"model": "allenai/OLMo-2-1124-13B-Instruct", "layers": 40, "boundary": 20},
+  "qwen": {"model": "Qwen/Qwen2.5-14B-Instruct", "layers": 48, "boundary": 31},
+  "yi": {"model": "01-ai/Yi-1.5-9B-Chat", "layers": 48, "boundary": 39}
+}
